@@ -1,0 +1,353 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.retro-eko-loft.com.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2001                
+POS_TIME 2684                
+POS_VISITOR 7675                
+POS_DAY 9237                
+POS_DOMAIN 3391                
+POS_LOGIN 3624                
+POS_ROBOT 3779                
+POS_WORMS 4097                
+POS_EMAILSENDER 4228                
+POS_EMAILRECEIVER 4371                
+POS_SESSION 9481                
+POS_SIDER 9687                
+POS_FILETYPES 4506                
+POS_DOWNLOADS 4706                
+POS_OS 4776                
+POS_BROWSER 4899                
+POS_SCREENSIZE 5437                
+POS_UNKNOWNREFERER 5511                
+POS_UNKNOWNREFERERBROWSER 6045                
+POS_ORIGIN 6315                
+POS_SEREFERRALS 6455                
+POS_PAGEREFS 6599                
+POS_SEARCHWORDS 6830                
+POS_KEYWORDS 6982                
+POS_MISC 2348                
+POS_ERRORS 7041                
+POS_CLUSTER 3480                
+POS_SIDER_404 7155                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200609220428 572 150609 17551087065911
+FirstTime 20200601004534
+LastTime 20200609220416
+LastUpdate 20200610045743 572 0 572 0 0
+TotalVisits 41                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 32 71 73517668 3 3 26149
+1 3 3 11911 1 1 402
+2 0 0 0 0 0 0
+3 0 0 0 4 8 30630
+4 0 0 0 1 2 738
+5 0 0 0 3 5 15717
+6 1 1 16807 3 4 10088
+7 0 0 0 0 0 0
+8 0 0 0 3 3 13966
+9 30 76 61790316 4 7 11093614
+10 0 0 0 2 2 9342
+11 19 45 22921243 1 1 4671
+12 35 87 39665428 6 7 174903
+13 21 36 20416086 1 1 2658
+14 36 80 38516988 4 6 126546
+15 66 147 70105494 17 28 317329
+16 43 86 23019463 5 28 31103337
+17 73 195 91215036 13 27 24575088
+18 11 35 53618 1 1 2666
+19 3 9 13869 2 2 7199
+20 25 63 103922835 3 4 14302
+21 15 61 73710686 4 10 14969509
+22 33 88 83303756 5 6 294110
+23 0 0 0 3 4 66642
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 446 1083 702200825
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+favicon 30 768187 20200609174059 0
+googlebot 27 58553 20200609173651 9
+spider 12 45945 20200603053746 3
+bot[\s_+:,\.\;\/\\-] 9 70452 20200608002319 0
+java\/[0-9] 1 4624 20200602222450 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 99 409965 0 0
+php 153 546631 0 0
+webp 225 25985439 0 0
+png 133 14639229 0 0
+html 68 326590 0 0
+jpg 403 660290630 0 0
+svg 2 1962 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 12 1 4411
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 435
+winxp 2
+winnt 522
+winvista 1
+linux 41
+win7 23
+macosx 42
+Unknown 18
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 26
+chrome72.0.3626.96 2
+chrome77.0.3865.90 168
+firefox53.0 1
+chrome83.0.4103.96 218
+chrome75.0.3770.101 1
+chrome34.0.1847.131 1
+chrome72.0.3626.121 1
+firefox52.0 1
+chrome56.0.2924.122 1
+chrome56.0.2924.87 10
+msie11 1
+chrome83.0.4103.97 332
+iphone 25
+chrome62.0.3202.84 2
+chrome83.0.4103.83 57
+chrome45.0.2454.101 2
+mozilla 10
+netscape5.0 1
+chrome81.0.4044.108 1
+chrome81.0.4044.138 153
+chrome79.0.3945.116 1
+chrome83.0.4103.61 73
+chrome41.0.2228.0 1
+safari12.1.2 13
+Unknown 6
+firefox11.0 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0,_Google-AdWords-Express 20200602150646
+Google-AdWords-Express 20200602150647
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/81.0.4044.108_Safari/537.36 20200602152157
+CheckMarkNetwork/1.0_(_http://www.checkmarknetwork.com/spider.html) 20200603111832
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20200604170233
+Viber 20200602123816
+Google-Ads-Creatives-Assistant 20200602150648
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Google-AdWords-Express 20200602150647
+CheckMarkNetwork/1.0_(_http://www.checkmarknetwork.com/spider.html) 20200603111832
+Viber 20200602123816
+Google-Ads-Creatives-Assistant 20200602150648
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 111 133
+From1 2 2
+From2 0 0
+From3 10 10
+From4 323 939
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://l.instagram.com 6 6
+https://l.instagram.com 3 3
+http://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+503 7 3283
+206 59 81902482
+404 15 6080
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/google22676c25f709106c.html 1 -
+/.well-known/apple-app-site-association 6 -
+/img/background.png 2 http://www.retro-eko-loft.com.ua/css/style.css
+/apple-app-site-association 5 -
+/google4f7cd8d4a97f805d.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+194.44.120.177 100 276 67178673 20200609182338
+31.129.235.20 89 179 107967647 20200604201140
+37.52.66.121 66 154 115145706 20200609190700
+31.129.235.80 24 50 20423831 20200608010238
+95.135.188.55 23 57 33037126 20200602124631
+91.221.218.22 19 43 55955885 20200608010700
+46.133.233.2 17 45 60652327 20200602095200
+91.237.241.245 13 40 77055841 20200608201437
+94.153.5.243 12 26 16541 20200602095057
+46.63.127.18 12 38 38102182 20200609213055 20200609212854 /img/lifecell.webp
+54.185.14.211 1 1 4624 20200601004534
+46.133.205.181 10 31 35957152 20200609220416 20200609220307 /page.php
+34.216.76.118 1 1 4624 20200601165249
+54.214.74.95 1 1 4624 20200604005010
+91.124.32.85 10 26 26317231 20200608225439
+66.249.88.62 2 2 9248 20200602152157
+46.211.22.140 0 1 279206 
+173.252.83.9 0 1 379 
+66.102.9.82 0 1 279206 
+66.249.88.197 0 5 20272906 
+66.102.9.86 0 1 279206 
+66.249.88.198 1 3 7315731 20200609213142 20200609213142 /page.php
+66.102.9.163 4 4 18496 20200604170233
+46.119.170.64 3 6 14799 20200602203205
+46.211.66.138 1 4 842242 20200601094121
+46.211.34.226 10 25 3147571 20200602123816
+66.102.9.160 2 2 9248 20200604170232
+144.168.162.250 1 1 16807 20200609060104
+94.153.79.204 12 31 23825661 20200601122824
+66.102.7.39 1 1 4624 20200602150648
+94.153.31.168 2 6 9246 20200609194103
+66.249.88.63 2 2 9248 20200602150647
+66.249.88.194 0 2 7769604 
+46.211.10.51 2 13 250263 20200609210926 20200609210900 /page.php
+52.26.225.137 1 1 4624 20200604165043
+66.102.9.191 4 4 18496 20200604170232
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20200601 45 94 48227204 6
+20200602 96 221 137154068 10
+20200603 11 23 222806 1
+20200604 34 55 44267656 8
+20200606 10 21 2859385 1
+20200608 60 144 177113709 5
+20200609 190 525 292356376 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 3
+30s-2mn 7
+2mn-5mn 7
+0s-30s 11
+15mn-30mn 3
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/index.php 78 360563 18 15
+/ 62 298846 19 12
+/page.php 59 156579 1 7
+/img/lifecell.webp 30 181755 0 1
+/img/kuiv.webp 30 83622 0 0
+/img/3.webp 28 4915260 0 1
+/img/4.webp 28 2239482 0 0
+/img/2.webp 28 4006128 0 0
+/img/5.webp 28 3475208 0 0
+/img/1.webp 28 2259222 0 1
+/index.php/ 4 18496 3 0
+/index.php/google22676c25f709106c.html 1 4624 0 0
+/index.php/google4f7cd8d4a97f805d.html 1 4624 0 0
+/admin.php 16 29489 0 0
+/img/background.webp 13 7053102 0 0
+/img/background_mob.webp 12 1771660 0 0
+END_SIDER
